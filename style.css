@@ -1,0 +1,12 @@
+body{
+    background:url('https://i.pinimg.com/736x/a2/82/45/a282451181814375849aa10d2efac87c.jpg');
+    style="width:200px" 
+  }
+h1{
+    text-align: center;
+    color:white;
+}
+table,th,td{
+    border-bottom: 1px solid white;
+}
+
